@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">destNombre</Data></Cell>
+			<Cell><Data ss:Type="String">destPrecio</Data></Cell>
+			<Cell><Data ss:Type="String">destPrecio*1.05</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Londres (Heathrow)</Data></Cell>
+			<Cell><Data ss:Type="Number">9711.00</Data></Cell>
+			<Cell><Data ss:Type="Number">10196.55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Amsterdam (Schiphol)</Data></Cell>
+			<Cell><Data ss:Type="Number">6231.00</Data></Cell>
+			<Cell><Data ss:Type="Number">6542.55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Miami (Wilcox Field)</Data></Cell>
+			<Cell><Data ss:Type="Number">6517.00</Data></Cell>
+			<Cell><Data ss:Type="Number">6842.85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tokio (Narita)</Data></Cell>
+			<Cell><Data ss:Type="Number">8704.00</Data></Cell>
+			<Cell><Data ss:Type="Number">9139.20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kuala Lumpur (KLIA)</Data></Cell>
+			<Cell><Data ss:Type="Number">8570.00</Data></Cell>
+			<Cell><Data ss:Type="Number">8998.50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bangkok (Suvarnabhumi)</Data></Cell>
+			<Cell><Data ss:Type="Number">8469.00</Data></Cell>
+			<Cell><Data ss:Type="Number">8892.45</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">París (Charles de Gaulle)</Data></Cell>
+			<Cell><Data ss:Type="Number">7713.00</Data></Cell>
+			<Cell><Data ss:Type="Number">8098.65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cancún (Cancún)</Data></Cell>
+			<Cell><Data ss:Type="Number">6494.00</Data></Cell>
+			<Cell><Data ss:Type="Number">6818.70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Milán (Malpensa)</Data></Cell>
+			<Cell><Data ss:Type="Number">6756.00</Data></Cell>
+			<Cell><Data ss:Type="Number">7093.80</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
